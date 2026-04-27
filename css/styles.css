@@ -29,7 +29,7 @@
       align-items: center;
       justify-content: space-between;
       padding: 18px 48px;
-      background: rgba(255,255,255,0.95);
+      background: rgba(235, 236, 238, 0.95);
       backdrop-filter: blur(8px);
       border-bottom: 1px solid var(--border);
     }
@@ -207,7 +207,7 @@
     }
 
     .hero-card {
-      background: white;
+      background: rgb(235, 236, 238);
       border-radius: 16px;
       padding: 40px;
       box-shadow: 0 20px 60px rgba(0,0,0,0.09);
