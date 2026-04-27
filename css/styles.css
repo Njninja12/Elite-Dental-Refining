@@ -41,6 +41,13 @@
       text-decoration: none;
     }
 
+    .logo-image {
+      width: 44px;
+      height: 44px;
+      object-fit: contain;
+      display: block;
+    }
+
     /* SVG logo inline */
     .logo-icon {
       width: 44px;
